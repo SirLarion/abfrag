@@ -1,0 +1,21 @@
+#!/bin/bash
+
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+if [[ -n $@ ]]; then
+  args="--no-default-features --features $@"
+fi
+
+cd $SCRIPT_DIR
+pwd
+
+echo "Building abfrag..."
+if cargo build --release $args; then
+  echo "Build complete!"
+  echo "Installing..."
+  if sudo mv target/release/abfrag /usr/bin/. ; then
+    echo "Installation complete!"
+  else
+    echo "Installation failed!"
+  fi
+fi

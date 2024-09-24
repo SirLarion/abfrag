@@ -1,0 +1,1217 @@
+{
+  "Verb": [
+    {
+      "de": "backen",
+      "de_forms": ["backen", "bäckt/backt", "buk/backte", "hat gebacken"],
+      "en": "bake",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "befehlen",
+      "de_forms": ["befehlen", "befiehlt", "befahl", "hat befohlen"],
+      "en": "order",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "beginnen",
+      "de_forms": ["beginnen", "beginnt", "begann", "hat begonnen"],
+      "en": "begin",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "beißen",
+      "de_forms": ["beißen", "beißt", "biß", "hat gebissen"],
+      "en": "bite",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "bergen",
+      "de_forms": ["bergen", "birgt", "barg", "hat geborgen"],
+      "en": "save",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "bersten",
+      "de_forms": ["bersten", "birst", "barst", "ist geborsten"],
+      "en": "burst",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "biegen",
+      "de_forms": ["biegen", "biegt", "bog", "hat gebogen"],
+      "en": "bend",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "bieten",
+      "de_forms": ["bieten", "bietet", "bot", "hat geboten"],
+      "en": "offer",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "binden",
+      "de_forms": ["binden", "bindet", "band", "hat gebunden"],
+      "en": "bind",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "bitten",
+      "de_forms": ["bitten", "bittet", "bat", "hat gebeten"],
+      "en": "beg",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "blasen",
+      "de_forms": ["blasen", "bläst", "blies", "hat geblasen"],
+      "en": "blow",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "bleiben",
+      "de_forms": ["bleiben", "bleibt", "blieb", "ist geblieben"],
+      "en": "stay",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "braten",
+      "de_forms": ["braten", "brät", "briet", "hat gebraten"],
+      "en": "fry",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "brechen",
+      "de_forms": ["brechen", "bricht", "brach", "hat/ist gebrochen"],
+      "en": "break",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "brennen",
+      "de_forms": ["brennen", "brennt", "brannte", "hat gebrannt"],
+      "en": "burn",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "bringen",
+      "de_forms": ["bringen", "bringt", "brachte", "hat gebracht"],
+      "en": "bring",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "denken",
+      "de_forms": ["denken", "denkt", "dachte", "hat gedacht"],
+      "en": "think",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "dreschen",
+      "de_forms": ["dreschen", "drischt", "drosch", "hat gedroschen"],
+      "en": "thresh",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "dringen",
+      "de_forms": ["dringen", "dringt", "drang", "hat/ist gedrungen"],
+      "en": "insist",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "dürfen",
+      "de_forms": ["dürfen", "darf", "durfte", "hat gedurft"],
+      "en": "can",
+      "en_expanded": "have permission",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "empfangen",
+      "de_forms": ["empfangen", "empfängt", "empfing", "hat empfangen"],
+      "en": "receive",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "empfehlen",
+      "de_forms": ["empfehlen", "empfiehlt", "empfahl", "hat empfohlen"],
+      "en": "recommend",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "erlöschen",
+      "de_forms": ["erlöschen", "erlischt", "erlosch", "ist erloschen"],
+      "en": "go out",
+      "en_expanded": "expire",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "erschrecken",
+      "de_forms": ["erschrecke", "erschrickt", "erschrak", "ist erschrocken"],
+      "en": "be scared",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "essen",
+      "de_forms": ["essen", "isst", "aß", "hat gegessen"],
+      "en": "eat",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fahren",
+      "de_forms": ["fahren", "fährt", "fuhr", "hat/ist gefahren"],
+      "en": "drive",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fallen",
+      "de_forms": ["fallen", "fällt", "fiel", "ist gefallen"],
+      "en": "fall",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fangen",
+      "de_forms": ["fangen", "fängt", "fing", "hat gefangen"],
+      "en": "catch",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fechten",
+      "de_forms": ["fechten", "ficht", "focht", "hat gefochten"],
+      "en": "fence",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "finden",
+      "de_forms": ["finden", "findet", "fand", "hat gefunden"],
+      "en": "find",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "flechten",
+      "de_forms": ["flechten", "flicht", "flocht", "hat geflochten"],
+      "en": "weave",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fliegen",
+      "de_forms": ["fliegen", "fliegt", "flog", "hat/ist geflogen"],
+      "en": "fly",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fliehen",
+      "de_forms": ["fliehen", "flieht", "floh", "ist geflohen"],
+      "en": "flee",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fließen",
+      "de_forms": ["fließen", "fließt", "floss", "ist geflossen"],
+      "en": "flow",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "fressen",
+      "de_forms": ["fressen", "frisst", "fraß", "hat gefressen"],
+      "en": "eat ",
+      "en_expanded": "like an animal",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "frieren",
+      "de_forms": ["frieren", "friert", "fror", "hat gefroren"],
+      "en": "freeze",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gären",
+      "de_forms": ["gären", "gärt", "gor", "ist gegoren"],
+      "en": "roam",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gebären",
+      "de_forms": ["gebären", "gebärt/gebiert", "gebar", "hat/ist geboren"],
+      "en": "give birth",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "geben",
+      "de_forms": ["geben", "gibt", "gab", "hat gegeben"],
+      "en": "give",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gedeihen",
+      "de_forms": ["gedeihen", "gedeiht", "gedieh", "ist gediehen"],
+      "en": "thrive/prosper",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gehen",
+      "de_forms": ["gehen", "geht", "ging", "ist gegangen"],
+      "en": "go",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gelingen",
+      "de_forms": ["gelingen", "gelingt", "gelang", "ist gelungen"],
+      "en": "succeed",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gelten",
+      "de_forms": ["gelten", "gilt", "galt", "hat gegolten"],
+      "en": "be valid",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "genesen",
+      "de_forms": ["genesen", "genest", "genas", "ist genesen"],
+      "en": "recover",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "genießen",
+      "de_forms": ["genießen", "genießt", "genoss", "hat genossen"],
+      "en": "enjoy",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "geschehen",
+      "de_forms": ["geschehen", "geschieht", "geschah", "ist geschehen"],
+      "en": "happen",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gewinnen",
+      "de_forms": ["gewinnen", "gewinnt", "gewann", "hat gewonnen"],
+      "en": "win",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gießen",
+      "de_forms": ["gießen", "gießt", "goss", "hat gegossen"],
+      "en": "pour",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gleichen",
+      "de_forms": ["gleichen", "gleicht", "glich", "hat geglichen"],
+      "en": "even",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "gleiten",
+      "de_forms": ["gleiten", "gleitet", "glitt", "ist geglitten"],
+      "en": "slide",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "graben",
+      "de_forms": ["graben", "gräbt", "grub", "hat gegraben"],
+      "en": "dig",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "greifen",
+      "de_forms": ["greifen", "greift", "griff", "hat gegriffen"],
+      "en": "grab",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "haben",
+      "de_forms": ["haben", "hat ", "hatte", "hat gehabt"],
+      "en": "have",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "halten",
+      "de_forms": ["halten", "hält", "hielt", "hat gehalten"],
+      "en": "hold",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "hängen",
+      "de_forms": ["hängen", "hängt", "hing", "hat gehangen"],
+      "en": "hang",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "hauen",
+      "de_forms": ["hauen", "haut", "haute/hieb", "hat/ist gehauen"],
+      "en": "chop",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "heben",
+      "de_forms": ["heben", "hebt", "hob", "hat gehoben"],
+      "en": "lift",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "heißen",
+      "de_forms": ["heißen", "heißt", "hieß", "hat geheißen"],
+      "en": "call",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "helfen",
+      "de_forms": ["helfen", "hilft", "half", "hat geholfen"],
+      "en": "help",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "kennen",
+      "de_forms": ["kennen", "kennt", "kannte", "hat gekannt"],
+      "en": "know",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "klingen",
+      "de_forms": ["klingen", "klingt", "klang", "hat geklungen"],
+      "en": "ring",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "kneifen",
+      "de_forms": ["kneifen", "kneift", "kniff", "hat gekniffen"],
+      "en": "pinch",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "kommen",
+      "de_forms": ["kommen", "kommt", "kam", "ist gekommen"],
+      "en": "come",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "können",
+      "de_forms": ["können", "kann", "konnte", "hat gekonnt"],
+      "en": "can",
+      "en_expanded": "be capable of",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "kriechen",
+      "de_forms": ["kriechen", "kriecht", "kroch", "ist gekrochen"],
+      "en": "creep",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "laden",
+      "de_forms": ["laden", "lädt", "lud", "hat geladen"],
+      "en": "load/invite",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "lassen",
+      "de_forms": ["lassen", "lässt", "ließ", "hat gelassen"],
+      "en": "let",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "laufen",
+      "de_forms": ["laufen", "läuft", "lief", "ist gelaufen"],
+      "en": "run",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "leiden",
+      "de_forms": ["leiden", "leidet", "litt", "hat gelitten"],
+      "en": "suffer",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "leihen",
+      "de_forms": ["leihen", "leiht", "lieh", "hat geliehen"],
+      "en": "lend",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "lesen",
+      "de_forms": ["lesen", "liest", "las", "hat gelesen"],
+      "en": "read",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "liegen",
+      "de_forms": ["liegen", "liegt", "lag", "hat gelegen"],
+      "en": "lie",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "löschen",
+      "de_forms": ["löschen", "löscht", "losch", "hat geloschen"],
+      "en": "clear/erase",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "lügen",
+      "de_forms": ["lügen", "lügt", "log", "hat gelogen"],
+      "en": "lie",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "mahlen",
+      "de_forms": ["mahlen", "mahlt", "mahlte", "hat gemahlen"],
+      "en": "grind",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "meiden",
+      "de_forms": ["meiden", "meidet", "mied", "hat gemieden"],
+      "en": "avoid",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "melken",
+      "de_forms": ["melken", "melkt", "melkte", "hat gemolken/gemelkt"],
+      "en": "milk",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "messen",
+      "de_forms": ["messen", "misst", "maß", "hat gemessen"],
+      "en": "measure",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "mißlingen",
+      "de_forms": ["mißlingen", "mißlingt", "mißlang", "ist mißlungen"],
+      "en": "fail",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "mögen",
+      "de_forms": ["mögen", "mag", "mochte", "hat gemocht"],
+      "en": "like/want",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "müssen",
+      "de_forms": ["müssen", "muss", "musste", "hat gemusst"],
+      "en": "have to",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "nehmen",
+      "de_forms": ["nehmen", "nimmt", "nahm", "hat genommen"],
+      "en": "take",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "nennen",
+      "de_forms": ["nennen", "nennt", "nannte", "hat genannt"],
+      "en": "call",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "pfeifen",
+      "de_forms": ["pfeifen", "pfeift", "pfiff", "hat gepfiffen"],
+      "en": "whistle",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "preisen",
+      "de_forms": ["preisen", "preist ", "pries", "hat gepriesen"],
+      "en": "praise",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "quellen",
+      "de_forms": ["quellen", "quillt", "quoll", "ist gequollen"],
+      "en": "swell",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "raten",
+      "de_forms": ["raten", "rät", "riet", "hat geraten"],
+      "en": "recommend",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "reiben",
+      "de_forms": ["reiben", "reibt", "rieb", "hat gerieben"],
+      "en": "rub",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "reißen",
+      "de_forms": ["reißen", "reißt", "riss", "hat/ist gerissen"],
+      "en": "tear",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "reiten",
+      "de_forms": ["reiten", "reitet", "ritt", "hat/ist geritten"],
+      "en": "horse ride",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "rennen",
+      "de_forms": ["rennen", "rennt", "rannte", "ist gerannt"],
+      "en": "run",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "riechen",
+      "de_forms": ["riechen", "riecht", "roch", "hat gerochen"],
+      "en": "sniff",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "ringen",
+      "de_forms": ["ringen", "ringt", "rang", "hat gerungen"],
+      "en": "wrestle",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "rinnen",
+      "de_forms": ["rinnen", "rinnt", "rann", "ist geronnen"],
+      "en": "run down",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "rufen",
+      "de_forms": ["rufen", "ruft", "rief", "hat gerufen"],
+      "en": "scream/call",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "salzen",
+      "de_forms": ["salzen", "salzt", "salzte", "hat gesalzen/gesalzt"],
+      "en": "salt",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "saufen",
+      "de_forms": ["saufen", "säuft", "soff", "hat gesoffen"],
+      "en": "drink/booze",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "saugen",
+      "de_forms": ["saugen", "saugt", "sog/saugte", "hat gesogen/gesaugt"],
+      "en": "suck",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schaffen",
+      "de_forms": ["schaffen", "schafft", "schuf", "hat geschaffen"],
+      "en": "create",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "scheiden",
+      "de_forms": ["scheiden", "scheidet", "schied", "hat/ist geschieden"],
+      "en": "separate",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "scheinen",
+      "de_forms": ["scheinen", "scheint", "schien", "hat geschienen"],
+      "en": "shine",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schelten",
+      "de_forms": ["schelten", "schilt", "schalt", "hat gescholten"],
+      "en": "scold",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "scheren",
+      "de_forms": ["scheren", "schiert", "schor", "hat geschoren"],
+      "en": "cut",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schieben",
+      "de_forms": ["schieben", "schiebt", "schob", "hat geschoben"],
+      "en": "move",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schießen",
+      "de_forms": ["schießen", "schießt", "schoss", "hat geschossen"],
+      "en": "shoot",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schlafen",
+      "de_forms": ["schlafen", "schläft", "schlief", "hat geschlafen"],
+      "en": "sleep",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schlagen",
+      "de_forms": ["schlagen", "schlägt", "schlug", "hat geschlagen"],
+      "en": "beat",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schleichen",
+      "de_forms": ["schleichen", "schleicht", "schlich", "ist geschlichen"],
+      "en": "sneak",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schleifen",
+      "de_forms": ["schleifen", "schleift", "schliff", "hat geschliffen"],
+      "en": "sharpen",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schließen",
+      "de_forms": ["schließen", "schließt", "schloss", "hat geschlossen"],
+      "en": "close",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schlingen",
+      "de_forms": ["schlingen", "schlingt", "schlang", "hat geschlungen"],
+      "en": "wrap",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schmeißen",
+      "de_forms": ["schmeißen", "schmeißt", "schmiss", "hat geschmissen"],
+      "en": "throw",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schmelzen",
+      "de_forms": ["schmelzen", "schmilzt", "schmolz", "hat/ist geschmolzen"],
+      "en": "melt",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schneiden",
+      "de_forms": ["schneiden", "schneidet", "schnitt", "hat geschnitten"],
+      "en": "cut",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schreiben",
+      "de_forms": ["schreiben", "schreibt", "schrieb", "hat geschrieben"],
+      "en": "write",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schreien",
+      "de_forms": ["schreien", "schreit", "schrie", "hat geschrien"],
+      "en": "scream",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schreiten",
+      "de_forms": ["schreiten", "schreitet", "schritt", "ist geschritten"],
+      "en": "stride",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schweigen",
+      "de_forms": ["schweigen", "schweigt", "schwieg", "hat geschwiegen"],
+      "en": "remain silent",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schwellen",
+      "de_forms": ["schwellen", "schwillt", "schwoll", "ist geschwollen"],
+      "en": "swell",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schwimmen",
+      "de_forms": ["schwimmen", "schwimmt", "schwamm", "ist geschwommen"],
+      "en": "swim",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schwinden",
+      "de_forms": ["schwinden", "schwindet", "schwand", "ist geschwunden"],
+      "en": "dwindle/fade",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schwingen",
+      "de_forms": ["schwingen", "schwingt", "schwang", "hat geschwungen"],
+      "en": "swing",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "schwören",
+      "de_forms": ["schwören", "schwört", "schwor/schwur", "hat geschworen"],
+      "en": "swear",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sehen",
+      "de_forms": ["sehen", "sieht", "sah", "hat gesehen"],
+      "en": "watch/see",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sein",
+      "de_forms": ["sein", "ist ", "war", "ist gewesen"],
+      "en": "be",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "senden",
+      "de_forms": ["senden", "sendet", "sandte", "hat gesandt"],
+      "en": "send",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "singen",
+      "de_forms": ["singen", "singt", "sang", "hat gesungen"],
+      "en": "sing",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sinken",
+      "de_forms": ["sinken", "sinkt", "sank", "ist gesunken"],
+      "en": "sink",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sinnen",
+      "de_forms": ["sinnen", "sinnt", "sann", "hat gesonnen"],
+      "en": "think",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sitzen",
+      "de_forms": ["sitzen", "sitzt", "saß", "hat gesessen"],
+      "en": "sit",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sollen",
+      "de_forms": ["sollen", "soll", "sollte", "hat gesollt"],
+      "en": "should",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "speien",
+      "de_forms": ["speien", "speit", "spie", "hat gespien"],
+      "en": "spit",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "spinnen",
+      "de_forms": ["spinnen", "spinnt", "spann", "hat gesponnen"],
+      "en": "weave",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sprechen",
+      "de_forms": ["sprechen", "spricht", "sprach", "hat gesprochen"],
+      "en": "speak",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sprießen",
+      "de_forms": ["sprießen", "sprießt", "spross", "ist gesprossen"],
+      "en": "sprout",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "springen",
+      "de_forms": ["springen", "springt", "sprang", "ist gesprungen"],
+      "en": "jump",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "stechen",
+      "de_forms": ["stechen", "sticht", "stach", "ist gestochen"],
+      "en": "pierce",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "stehen",
+      "de_forms": ["stehen", "steht", "stand", "hat gestanden"],
+      "en": "stand",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "stehlen",
+      "de_forms": ["stehlen", "stiehlt", "stahl", "hat gestohlen"],
+      "en": "steal",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "steigen",
+      "de_forms": ["steigen", "steigt", "stieg", "ist gestiegen"],
+      "en": "climb",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "sterben",
+      "de_forms": ["sterben", "stirbt", "starb", "ist gestorben"],
+      "en": "die",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "stinken",
+      "de_forms": ["stinken", "stinkt", "stank", "hat gestunken"],
+      "en": "stink",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "stoßen",
+      "de_forms": ["stoßen", "stößt", "stieß", "hat/ist gestoßen"],
+      "en": "bump",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "streichen",
+      "de_forms": ["streichen", "streicht", "strich", "hat gestrichen"],
+      "en": "brush",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "streiten",
+      "de_forms": ["streiten", "streitet", "stritt", "hat gestritten"],
+      "en": "argue",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "tragen",
+      "de_forms": ["tragen", "trägt", "trug", "hat getragen"],
+      "en": "wear",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "treffen",
+      "de_forms": ["treffen", "trifft", "traf", "hat getroffen"],
+      "en": "meet",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "treiben",
+      "de_forms": ["treiben", "treibt", "trieb", "hat/ist getrieben"],
+      "en": "float",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "treten",
+      "de_forms": ["treten", "tritt", "trat", "hat/ist getreten"],
+      "en": "step",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "trinken",
+      "de_forms": ["trinken", "trinkt", "trank", "hat getrunken"],
+      "en": "drink",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "trügen",
+      "de_forms": ["trügen", "trügt", "trog", "hat getrogen"],
+      "en": "deceive",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "tun",
+      "de_forms": ["tun", "tut", "tat", "hat getan"],
+      "en": "do",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "verderben",
+      "de_forms": ["verderben", "verdirbt", "verdarb", "hat/ist verdorben"],
+      "en": "spoil/ruin",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "verdrießen",
+      "de_forms": ["verdrießen", "verdrießt", "verdross", "hat verdrossen"],
+      "en": "annoy/irritate",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "vergessen",
+      "de_forms": ["vergessen", "vergisst", "vergaß", "hat vergessen"],
+      "en": "forget",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "verlieren",
+      "de_forms": ["verlieren", "verliert", "verlor", "hat verloren"],
+      "en": "lose",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "verzeihen",
+      "de_forms": ["verzeihen", "verzeiht", "verzieh", "hat verziehen"],
+      "en": "forgive",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "wachsen",
+      "de_forms": ["wachsen", "wächst", "wuchs", "ist gewachsen"],
+      "en": "grow",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "wägen",
+      "de_forms": ["wägen", "wägt", "wog", "hat gewogen"],
+      "en": "weigh",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "waschen",
+      "de_forms": ["waschen", "wäscht", "wusch", "hat gewaschen"],
+      "en": "wash",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "weichen",
+      "de_forms": ["weichen", "weicht", "wich", "ist gewichen"],
+      "en": "yield",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "weisen",
+      "de_forms": ["weisen", "weist ", "wies", "hat gewiesen"],
+      "en": "point",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "wenden",
+      "de_forms": [
+        "wenden",
+        "wendet",
+        "wandte/wendete",
+        "hat gewandt/gewendet"
+      ],
+      "en": "turn",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "werben",
+      "de_forms": ["werben", "wirbt", "warb", "hat geworben"],
+      "en": "advertise",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "werden",
+      "de_forms": ["werden", "wird", "wurde", "ist geworden"],
+      "en": "become",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "werfen",
+      "de_forms": ["werfen", "wirft", "warf", "hat geworfen"],
+      "en": "throw",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "wiegen",
+      "de_forms": ["wiegen", "wiegt", "wog", "hat gewogen"],
+      "en": "weigh",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "winden",
+      "de_forms": ["winden", "windet", "wand", "hat gewunden"],
+      "en": "wind",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "wissen",
+      "de_forms": ["wissen", "weiß", "wusste", "hat gewusst"],
+      "en": "know",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "wollen",
+      "de_forms": ["wollen", "will", "wollte", "hat gewollt"],
+      "en": "want",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "ziehen",
+      "de_forms": ["ziehen", "zieht", "zog", "hat/ist gezogen"],
+      "en": "pull",
+      "irregular": true,
+      "freq_percentile": 0.5
+    },
+    {
+      "de": "zwingen",
+      "de_forms": ["zwingen", "zwingt", "zwang", "hat gezwungen"],
+      "en": "force",
+      "irregular": true,
+      "freq_percentile": 0.5
+    }
+  ]
+}

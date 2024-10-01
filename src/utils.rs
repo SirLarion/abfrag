@@ -1,4 +1,8 @@
-use std::fs::{self, File};
+use std::{
+    env,
+    fs::{self, File},
+    path::Path,
+};
 
 use sqlx::{Sqlite, SqlitePool};
 
@@ -6,6 +10,21 @@ use crate::{
     error::AppError,
     types::{UpsertPayload, Verb, VerbExerciseOptions, Word},
 };
+pub fn build_db_path() -> Result<String, AppError> {
+    let home_var = env::var("HOME");
+    let dir: String;
+
+    match home_var {
+        Ok(home) => dir = format!("{home}/.local/state/abfrag"),
+        Err(e) => return Err(e.into()),
+    }
+
+    if !Path::new(&dir).exists() {
+        fs::create_dir(&dir)?;
+    }
+
+    Ok(format!("{dir}/db.sqlite"))
+}
 
 pub fn split_opt_string(opt_str: Option<String>) -> Option<Vec<String>> {
     opt_str.map(|opt| {
@@ -16,7 +35,7 @@ pub fn split_opt_string(opt_str: Option<String>) -> Option<Vec<String>> {
 }
 
 pub async fn create_sql_pool() -> Result<SqlitePool, AppError> {
-    let pool = SqlitePool::connect("db.sqlite").await?;
+    let pool = SqlitePool::connect(&build_db_path()?).await?;
 
     Ok(pool)
 }
@@ -24,7 +43,7 @@ pub async fn create_sql_pool() -> Result<SqlitePool, AppError> {
 pub async fn init_database() -> Result<(), AppError> {
     if let Err(AppError::SqlError(e)) = create_sql_pool().await {
         if e.to_string().contains("unable to open database file") {
-            File::create("db.sqlite")?;
+            File::create(build_db_path()?)?;
         }
     };
 

@@ -139,7 +139,7 @@ impl Default for Operation {
     fn default() -> Self {
         Operation::Exercise(ExerciseType::Verb {
             options: VerbExerciseOptions {
-                irregular: false,
+                irregular: true,
                 freq_bias: true,
                 word_amount: 10,
             },
@@ -156,5 +156,5 @@ pub struct VerbExerciseOptions {
     pub freq_bias: bool,
 
     #[arg(short, long, default_value_t = 10)]
-    pub word_amount: u32,
+    pub word_amount: i32,
 }

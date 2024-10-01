@@ -1065,6 +1065,7 @@
       "de": "tun",
       "de_forms": ["tun", "tut", "tat", "hat getan"],
       "en": "do",
+      "en_expanded": "one smth.",
       "irregular": true,
       "freq_percentile": 0.5
     },
